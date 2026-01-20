@@ -24,9 +24,9 @@ An open-source automation tool for Clash Royale on Windows and macOS. Uses Andro
 
 ### 1. Install py-clash-bot
 
-**Windows:** Download the installer from [releases](https://github.com/pyclashbot/py-clash-bot/releases) and run it.
+**Windows:** Download the installer from [releases](https://github.com/luoxthedev/pyclashbot-ui-enhanced/releases) and run it.
 
-**macOS:** Download the DMG from [releases](https://github.com/pyclashbot/py-clash-bot/releases), drag to Applications. On first launch, go to **System Settings > Privacy & Security** and click "Allow" for py-clash-bot.
+**macOS:** Download the DMG from [releases](https://github.com/luoxthedev/pyclashbot-ui-enhanced/releases), drag to Applications. On first launch, go to **System Settings > Privacy & Security** and click "Allow" for py-clash-bot.
 
 ### 2. Install an Emulator
 
@@ -58,7 +58,7 @@ Default settings work for most users. Only enable "Show advanced settings" to ch
 
 ## Demo
 
-<img src="https://github.com/pyclashbot/py-clash-bot/blob/master/assets/demo-game.gif?raw=true" width="50%" alt="Game Demo"/><img src="https://github.com/pyclashbot/py-clash-bot/blob/master/assets/demo-gui.gif?raw=true" width="50%" alt="GUI Demo"/>
+<img src="https://github.com/luoxthedev/pyclashbot-ui-enhanced/blob/master/assets/demo-game.gif?raw=true" width="50%" alt="Game Demo"/><img src="https://github.com/luoxthedev/pyclashbot-ui-enhanced/blob/master/assets/demo-gui.gif?raw=true" width="50%" alt="GUI Demo"/>
 
 ## Troubleshooting
 
@@ -86,7 +86,7 @@ Default settings work for most users. Only enable "Show advanced settings" to ch
 
 ## Contributing
 
-See [CONTRIBUTING.md](CONTRIBUTING.md) | [Discord](https://discord.gg/nqKRkyq2UU) | [Issues](https://github.com/pyclashbot/py-clash-bot/issues)
+See [CONTRIBUTING.md](CONTRIBUTING.md) | [Discord](https://discord.gg/nqKRkyq2UU) | [Issues](https://github.com/luoxthedev/pyclashbot-ui-enhanced/issues)
 
 ## License
 

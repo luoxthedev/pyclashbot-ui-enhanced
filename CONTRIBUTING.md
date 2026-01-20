@@ -26,8 +26,8 @@ Before contributing, ensure you have the following tools installed:
 1. **Clone the repository**
 
    ```bash
-   git clone https://github.com/pyclashbot/py-clash-bot.git
-   cd py-clash-bot
+   git clone https://github.com/luoxthedev/pyclashbot-ui-enhanced.git
+   cd pyclashbot-ui-enhanced
    ```
 
 2. **Install dependencies**
