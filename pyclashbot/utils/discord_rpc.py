@@ -12,7 +12,7 @@ class DiscordRPCManager:
 
     APP_ID = "1181655703446888469"
     BUTTONS = [
-        {"label": "GitHub", "url": "https://github.com/pyclashbot/py-clash-bot"},
+        {"label": "GitHub", "url": "https://github.com/luoxthedev/pyclashbot-ui-enhanced"},
         {"label": "Discord", "url": "https://discord.gg/X7YGaX76EH"},
     ]
 
